@@ -7,4 +7,4 @@
 - :books: CI/CD with jenkins
 
 ---
-🌱
+🌱 GO
